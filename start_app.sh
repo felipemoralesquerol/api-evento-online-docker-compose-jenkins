@@ -1,0 +1,1 @@
+nodemon --delay 1500ms api/app
